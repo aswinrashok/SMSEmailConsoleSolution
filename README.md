@@ -1,6 +1,6 @@
 # SMSEmailConsoleSolution
 This is a C# Console Apllication Code.
-This is to send sms and email for multiple recevers. by using Gmail and push api .
+This is to send sms and email for multiple recevers. by using Gmail and push sms api .
 I am taking the ReceverEmailID,Recever Mobile Number , Mail and Sms Contents from the database.
 
 Sending Mail
